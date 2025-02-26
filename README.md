@@ -7,4 +7,6 @@ Apache - v. 2.4
 PHPMyAdmin - v. 5.2
 Mysql - v. 9.2
 
+Не забыть создать папку mail в папке site.loc!
+
 2. 
