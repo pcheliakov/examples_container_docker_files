@@ -9,4 +9,9 @@ Mysql - v. 9.2
 
 Не забыть создать папку mail в папке site.loc!
 
-2. 
+2. Папка docker-project
+PHP Version - 8.4
+XDebug - v. 3.4
+Nginx - v. 1.26
+PHPMyAdmin - v. 5.2
+Mysql - v. 9.2
