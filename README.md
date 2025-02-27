@@ -24,3 +24,11 @@ Mysql - v. 9.2
 Adminer - v. 4.17.1
 Redis - v. 7.4
 Rabbit - v. 4.0.6
+
+4. Папка laravel
+PHP Cli Version - v. 8.4
+PHP FPM Version - v. 8.4
+Nginx - v. 1.27
+Mysql - v. 9.2
+Node - v. 23.9
+PHPMyAdmin - v. 5.2
