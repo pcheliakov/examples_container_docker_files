@@ -32,3 +32,10 @@ Nginx - v. 1.27
 Mysql - v. 9.2
 Node - v. 23.9
 PHPMyAdmin - v. 5.2
+
+5. Папка laravel_2
+PHP Version - v. 8.4
+XDebug - v. 3.4
+Nginx - v. 1.27
+Mysql - v. 9.2
+PHPMyAdmin - v. 5.2
